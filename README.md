@@ -6,6 +6,7 @@
     /__/    \__\
 
 AI BASED VTOL UAV (Vertical Take-Off and Landing) Unmanned Aerial Vehicle engineered for critical mission profiles, including AI-driven border monitoring, natural disaster survivor detection, and fully autonomous navigation in GPS-denied environments.
+
 🚀 Overview
 The Stallion VTOL is built for compactness, modularity, and extended endurance. Designed around a robust V-tail configuration and dual tractor motors, this platform accommodates advanced edge-computing payloads to process complex computer vision tasks in real-time. Whether conducting continuous border surveillance or navigating satellite-denied zones using sensor fusion, the Stallion VTOL delivers high-performance reliability.
 
