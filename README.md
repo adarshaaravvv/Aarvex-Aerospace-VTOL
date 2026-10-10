@@ -5,6 +5,7 @@
      /  /  \  \
     /__/    \__\
 
+IN PROGRESS
 AI BASED VTOL UAV (Vertical Take-Off and Landing) Unmanned Aerial Vehicle engineered for critical mission profiles, including AI-driven border monitoring, natural disaster survivor detection, and fully autonomous navigation in GPS-denied environments.
 
 🚀 Overview
